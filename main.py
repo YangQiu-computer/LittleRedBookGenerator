@@ -1,7 +1,5 @@
 import streamlit as st
-
 from utils import generate_xiaohongshu
-
 
 st.header("小红书AI写作助手 ✏️")
 with st.sidebar:
